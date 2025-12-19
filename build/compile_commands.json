@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/main.cpp.o -c /workspaces/VillageSimulation/src/main.cpp",
+  "file": "/workspaces/VillageSimulation/src/main.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/main.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/model/Entity.cpp.o -c /workspaces/VillageSimulation/src/model/Entity.cpp",
+  "file": "/workspaces/VillageSimulation/src/model/Entity.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/model/Entity.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/model/Ressource.cpp.o -c /workspaces/VillageSimulation/src/model/Ressource.cpp",
+  "file": "/workspaces/VillageSimulation/src/model/Ressource.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/model/Ressource.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/model/villager.cpp.o -c /workspaces/VillageSimulation/src/model/villager.cpp",
+  "file": "/workspaces/VillageSimulation/src/model/villager.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/model/villager.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/model/world.cpp.o -c /workspaces/VillageSimulation/src/model/world.cpp",
+  "file": "/workspaces/VillageSimulation/src/model/world.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/model/world.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/view/Renderer.cpp.o -c /workspaces/VillageSimulation/src/view/Renderer.cpp",
+  "file": "/workspaces/VillageSimulation/src/view/Renderer.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/view/Renderer.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/view/StatPanel.cpp.o -c /workspaces/VillageSimulation/src/view/StatPanel.cpp",
+  "file": "/workspaces/VillageSimulation/src/view/StatPanel.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/view/StatPanel.cpp.o"
+},
+{
+  "directory": "/workspaces/VillageSimulation/build",
+  "command": "/usr/bin/c++  -I/workspaces/VillageSimulation/src/model -I/workspaces/VillageSimulation/src/view -I/workspaces/VillageSimulation/src/controller -g -std=gnu++17 -o CMakeFiles/VillageSimulation.dir/src/controller/SimulationController.cpp.o -c /workspaces/VillageSimulation/src/controller/SimulationController.cpp",
+  "file": "/workspaces/VillageSimulation/src/controller/SimulationController.cpp",
+  "output": "CMakeFiles/VillageSimulation.dir/src/controller/SimulationController.cpp.o"
+}
+]

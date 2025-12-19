@@ -1,0 +1,5 @@
+/workspaces/VillageSimulation/build/CMakeFiles/VillageSimulation.dir
+/workspaces/VillageSimulation/build/CMakeFiles/package.dir
+/workspaces/VillageSimulation/build/CMakeFiles/package_source.dir
+/workspaces/VillageSimulation/build/CMakeFiles/edit_cache.dir
+/workspaces/VillageSimulation/build/CMakeFiles/rebuild_cache.dir
